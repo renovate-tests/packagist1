@@ -5,6 +5,9 @@
         {
             "type":"composer",
             "url":"https://wpackagist.org"
+        },
+        {
+            "packagist.org": false
         }
     ],
     "require": {
