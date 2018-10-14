@@ -14,7 +14,7 @@
         "monolog/monolog": "1.0.2",
         "aws/aws-sdk-php":"*",
         "wpackagist-plugin/akismet":"dev-trunk",
-        "wpackagist-plugin/wordpress-seo":"7.0.2",
+        "wpackagist-plugin/wordpress-seo":"8.4",
         "wpackagist-theme/hueman":"*"
     },
     "autoload": {
